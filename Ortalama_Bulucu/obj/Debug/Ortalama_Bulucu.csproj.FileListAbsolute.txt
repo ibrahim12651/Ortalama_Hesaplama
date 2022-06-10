@@ -1,0 +1,4 @@
+c:\users\ibrah\onedrive\belgeler\visual studio 2010\Projects\Ortalama_Bulucu\Ortalama_Bulucu\bin\Ortalama_Bulucu.dll
+c:\users\ibrah\onedrive\belgeler\visual studio 2010\Projects\Ortalama_Bulucu\Ortalama_Bulucu\bin\Ortalama_Bulucu.pdb
+c:\users\ibrah\onedrive\belgeler\visual studio 2010\Projects\Ortalama_Bulucu\Ortalama_Bulucu\obj\Debug\Ortalama_Bulucu.dll
+c:\users\ibrah\onedrive\belgeler\visual studio 2010\Projects\Ortalama_Bulucu\Ortalama_Bulucu\obj\Debug\Ortalama_Bulucu.pdb
